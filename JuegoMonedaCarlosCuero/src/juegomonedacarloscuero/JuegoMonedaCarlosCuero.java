@@ -18,6 +18,7 @@ public class JuegoMonedaCarlosCuero {
         Principal principal = new Principal();
         principal.setLocationRelativeTo(null);
         principal.setVisible(true);
+        // prueba coment
     }
     
 }
